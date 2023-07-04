@@ -30,6 +30,10 @@ echarts，element-ui,vue,js等原生前端
     -   数据库管理
 -   pojo
     -   JavaBean
+-   service
+    -  调用mapper层
+
+大概就是service调用mapper层，controller调用service
 -   resources
     -   mapper 
         -   写数据库对应的sql，一般是mybatis-puls不能执行的语句
